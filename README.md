@@ -3,7 +3,7 @@
 **An AI agents training company and AI agency in Islamabad, Pakistan.**
 Not affiliated with any government "digital services" programme.
 
-DSP teaches beginners — including people who have never written a line of code — to build, deploy and sell AI agents in **Urdu and English**. 338 students so far, in Pakistan, Saudi Arabia, the UAE, the UK, the US, Canada, Australia and Malaysia.
+DSP teaches beginners — including people who have never written a line of code — to build, deploy and sell AI agents in **Urdu and English**. 350 students so far, in Pakistan, Saudi Arabia, the UAE, the UK, the US, Canada, Australia and Malaysia.
 
 **[digitalservicesprogram.com](https://www.digitalservicesprogram.com)** · **[DSP AI Agent Mastery](https://www.digitalservicesprogram.com/mastery)**
 
